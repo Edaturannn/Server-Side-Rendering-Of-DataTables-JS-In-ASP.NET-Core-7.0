@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{91D14F18-69E7-4E15-9770-A3E8E093234D}|https">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.WebsiteDeneme PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebsiteDeneme/Views/Deneme/Index.cshtml">
+    <Files>
+      <File FileName="WebsiteDeneme/Views/Deneme/Index.cshtml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WebsiteDeneme" expanded="True">
+            <Node name="WebsiteDeneme" expanded="True">
+              <Node name="Views" expanded="True">
+                <Node name="Deneme" expanded="True">
+                  <Node name="Index.cshtml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
